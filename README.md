@@ -5,15 +5,15 @@ This is a simple command-line based Tic-Tac-Toe game written in Python. The game
 
 ## How to Play
 
-Clone the repository to your local machine using git clone https://github.com/<username>/Tic-Tac-Toe.git
-Navigate to the game directory using cd Tic-Tac-Toe
-Run the game using python tic_tac_toe.py
-The game board will be displayed, with each space represented by a number from 1 to 9.
-Player 1 (X) will be prompted to enter their move. They should enter the number of the space where they want to place their marker.
-Player 2 (O) will then be prompted to enter their move.
-The game board will be updated after each move and displayed on the screen.
-The game will continue until one player wins or the game is a draw.
-The game will end with a message indicating the outcome of the game
+- Clone the repository to your local machine using git clone https://github.com/<username>/Tic-Tac-Toe.git
+- Navigate to the game directory using cd Tic-Tac-Toe
+- Run the game using python tic_tac_toe.py
+- The game board will be displayed, with each space represented by a number from 1 to 9.
+- Player 1 (X) will be prompted to enter their move. They should enter the number of the space where they want to place their marker.
+- Player 2 (O) will then be prompted to enter their move.
+- The game board will be updated after each move and displayed on the screen.
+- The game will continue until one player wins or the game is a draw.
+- The game will end with a message indicating the outcome of the game
 
 ## Note
 
