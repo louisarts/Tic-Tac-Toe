@@ -7,7 +7,7 @@ This is a simple command-line based Tic-Tac-Toe game written in Python. The game
 
 - Clone the repository to your local machine using git clone https://github.com/louisarts/Tic-Tac-Toe.git
 - Navigate to the game directory using cd Tic-Tac-Toe
-- Run the game using python tic_tac_toe.py
+- Run the game using python tic-tac-toe-game.py
 - The game board will be displayed, with each space represented by a number from 1 to 9.
 - Player 1 (X) will be prompted to enter their move. They should enter the number of the space where they want to place their marker.
 - Player 2 (O) will then be prompted to enter their move.
